@@ -1,5 +1,6 @@
 # Shopping List CLI (Finglish)
 یک برنامه پایتونی برخط برای مدیریت لیست خرید با نوشتار فینگلیش
+
 Yek barname Python baraye modiriyat list kharid be zabane Finglish.
 
 ## Features
@@ -45,4 +46,5 @@ MIT
 ---
 
 👨‍💻 ساخته شده با ❤️ توسط [امیر محمد ایمانی]
+
 @Terio_team_ir  join on Telegram
